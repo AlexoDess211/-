@@ -10,7 +10,7 @@
 - [Scratch 🐱](https://scratch.mit.edu/users/Alexodess) : Alexodess
 - [Adacraft](https://adacraft.org/people/Alexodess) : Alexodess
 - [Cocrea](https://cocrea.world/@alexodess) : Alexodess
-- [Discord 🎮](https://discord.gg/invite/3QmHbZHmmp) : Alexodess
+- [Discord 🎮](https://discord.gg/47TPwhzgfw) : Alexodess
 - [French Scratch Wiki 📔](https://fr.scratch-wiki.info/wiki/Utilisateur:Alexodess) : Alexodess
 - [Test Scratch Wiki 📔](https://test.scratch-wiki.info/wiki/User:Alexodess) : Alexodess
 Don't have inspiration for usernames, I know 😅.

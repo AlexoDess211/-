@@ -19,7 +19,7 @@ Don't have inspiration for usernames, I know 😅.
 I don't know
 
 ### If you are looking for my blog website
-My blog 🌐 is here : [https://alexodess211.github.io/ab.home/](https://alexodess211.github.io/ab.home/) (English not supported yet)
+My blog 🌐 is here : [https://alexodess211.github.io/home/](https://alexodess211.github.io/home/) (English not supported yet, site in developement.)
 
 ### My Github stats
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=AlexoDess211)](https://github.com/anuraghazra/github-readme-stats)

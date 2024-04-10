@@ -19,7 +19,7 @@
 Don't have inspiration for usernames, I know 😅.
 
 #### What I'm Working On
-A Game. https://alexodess211.github.io/games#
+A Game. [/games/#2nRM](https://alexodess211.github.io/games/#2nRM)
 
 ### If you are looking for my blog website
 My blog 🌐 is here : [https://alexodess211.github.io/home/](https://alexodess211.github.io/home/) (English not supported yet, site in developement.)
